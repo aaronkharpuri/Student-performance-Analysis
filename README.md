@@ -27,3 +27,6 @@ Key Findings
 Dataset
 UCI Machine Learning Repository — Student Performance Data Set
 https://archive.ics.uci.edu/ml/datasets/student+performance
+
+## Project Dashboard
+![Student Performance Dashboard](student_analysis_dashboard.png)
